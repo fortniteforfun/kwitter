@@ -1,0 +1,20 @@
+body{
+    background-color: dodgerblue;
+    text-align: center;
+    
+}
+#logout{
+    background-color: darkblue;
+    color: lightskyblue;
+    border: 100px;
+    align-items: center; 
+    
+}
+#valueRoom{
+    border-color: mediumblue;
+    color: blue;
+    background-color: cadetblue;
+}
+#addRoom{
+    background-color: cadetblue;
+}
